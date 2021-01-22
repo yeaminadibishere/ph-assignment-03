@@ -1,3 +1,7 @@
+// https://github.com/yeaminadibishere/ph-assignment-03 
+
+
+
 // Project 1 :- Function to Convert Kilometer to Meter
 
  function kilometerToMeter(kilometer){
@@ -10,6 +14,8 @@
 
 // // var answer = kilometerToMeter(1);
 // // console.log(answer);
+
+// -------------------------------------------------------------------------------------- // 
 
 // // Project 2 :- Function for the Budget Calculatior
 
@@ -42,7 +48,7 @@ function budgetCalculator(fridge, ac, macbook) {
 // var mainres = budgetCalculator(2,5,6);
 // console.log(mainres);
 
-
+// -------------------------------------------------------------------------------------- // 
 
 
 // Project 03 :- Function for the hotelCost
@@ -91,9 +97,9 @@ function hotelCost(daystay) {
 
 // var finalres = hotelCost(6000);
 // console.log(finalres);
+// -------------------------------------------------------------------------------------- // 
 
-
-// Task 4 megaFriend 
+// Project 04 :- Function for megaFriend
 
 
 function megaFriend(friendsname) {
